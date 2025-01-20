@@ -1,6 +1,4 @@
 <h1 align="center">Hi there, I'm Hayati</h1>
-<h3 align="center">https://tenor.com/view/quby-quby-sticker-quby-gif-pentol-pentol-stiker-gif-17502452595142207696</h3>
-
 - 🔭 I’m currently working at Celestica Kulim as a Senior Technician **Celestica Kulim**
 
 <h3 align="left">Connect with me:</h3>
