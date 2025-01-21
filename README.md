@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Hayati</h1>
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtnZDNsYWVybjRpbXdxbDFydjNiYWhldXN6d29kaGVqaTAzZWxxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pgyLpg9VC3tVswuTdi/giphy.gif
+<img align="right" height="200" src="[Letak link gif img dalam ni](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtnZDNsYWVybjRpbXdxbDFydjNiYWhldXN6d29kaGVqaTAzZWxxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pgyLpg9VC3tVswuTdi/giphy.gif)"/>
+
 - 🔭 I’m currently working at Celestica Kulim as a Senior Technician **Celestica Kulim**
 
 <h3 align="left">Connect with me:</h3>
