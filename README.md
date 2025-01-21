@@ -1,8 +1,9 @@
-<h1 align="center">Hi there  **I'm Hayati**</h1>
+<h1 align="center">⋆.˚🦋༘⋆ Hi there, I'm Hayati ⋆.˚🦋༘⋆ </h1>
 <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk5ZWl1OGxnbzZxbTY0M3Z3cnEzM3E2dHJ1ZWgzMXcyOGcyczh2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/piHA7uUINVYMXjEznJ/giphy.gif"  />
-- 
-- 🔭 I’m currently working at Celestica Kulim as a Senior Technician **Celestica Kulim**
-
+<h2 align="left">A little about me 😊
+<h3 align="left"> ׂ╰┈➤ I'm currently work at Celestica Kulim </h3>
+<h3 align="left"> ׂ╰┈➤I'm a part time Degree student in Science computer at UTM</h3>
+<h4 align="left"> I do believe whatever happen always have the reasons,keep moving and always push ourselves to think out of the box.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nurhayati-sharif-640248129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nurhayati-sharif-640248129/" height="30" width="40" /></a>
