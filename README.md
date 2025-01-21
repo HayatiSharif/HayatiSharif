@@ -1,5 +1,6 @@
-<h1 align="center">Hi there  I'm Hayati</h1>
+<h1 align="center">Hi there  **I'm Hayati**</h1>
 <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk5ZWl1OGxnbzZxbTY0M3Z3cnEzM3E2dHJ1ZWgzMXcyOGcyczh2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/piHA7uUINVYMXjEznJ/giphy.gif"  />
+- 
 - 🔭 I’m currently working at Celestica Kulim as a Senior Technician **Celestica Kulim**
 
 <h3 align="left">Connect with me:</h3>
