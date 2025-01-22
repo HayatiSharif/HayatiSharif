@@ -4,7 +4,7 @@
 <h3 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Palm%20Up%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Palm Up Hand Medium-Light Skin Tone" width="25" height="25" /> 
 A passionate computer science (software engineering) student </h3>
 <h3 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Palm%20Up%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Palm Up Hand Medium-Light Skin Tone" width="25" height="25" /> I'm currently working at Celestica Malaysia based in Kulim </h3>
-<h4 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Palm%20Up%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Palm Up Hand Medium-Light Skin Tone" width="25" height="25" /> Although I'm still new in programming and IT, but I love to explore more and more in software technology </h3>
+<h4 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Palm%20Up%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Palm Up Hand Medium-Light Skin Tone" width="25" height="25" /> Although I'm still new in software technology, but I love to explore more and more in this field. </h3>
 <h5 align="left"> </h3>
 <h6 align="left">Connect with me: https://www.linkedin.com/in/nurhayati-sharif-640248129/ </h3>
 <p align="left">
